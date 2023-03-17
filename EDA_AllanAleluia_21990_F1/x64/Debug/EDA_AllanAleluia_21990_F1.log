@@ -1,0 +1,22 @@
+﻿  gestor.c
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(17,2): error C2061: erro de sintaxe: identificador 'veiculo'
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(19,1): error C2059: erro de sintaxe: '}'
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(33,2): error C2061: erro de sintaxe: identificador 'veiculoNode'
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(34,1): error C2059: erro de sintaxe: '}'
+  main.c
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(17,2): error C2061: erro de sintaxe: identificador 'veiculo'
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(19,1): error C2059: erro de sintaxe: '}'
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(33,2): error C2061: erro de sintaxe: identificador 'veiculoNode'
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(34,1): error C2059: erro de sintaxe: '}'
+  servico.c
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(17,2): error C2061: erro de sintaxe: identificador 'veiculo'
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(19,1): error C2059: erro de sintaxe: '}'
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(33,2): error C2061: erro de sintaxe: identificador 'veiculoNode'
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(34,1): error C2059: erro de sintaxe: '}'
+  user.c
+  veiculo.c
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(17,2): error C2061: erro de sintaxe: identificador 'veiculo'
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(19,1): error C2059: erro de sintaxe: '}'
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(33,2): error C2061: erro de sintaxe: identificador 'veiculoNode'
+C:\Users\allan\Desktop\projeto\eda\allan\EDA_AllanAleluia_21990_F1\EDA_AllanAleluia_21990_F1\functions.h(34,1): error C2059: erro de sintaxe: '}'
+  Gerando Código...
